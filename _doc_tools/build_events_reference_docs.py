@@ -3,6 +3,7 @@ import os
 import re
 from collections import defaultdict
 
+from mpf import parsers
 from mpf.parsers.event_reference_parser import EventReferenceParser, EventReference
 from typing import List, Dict
 
